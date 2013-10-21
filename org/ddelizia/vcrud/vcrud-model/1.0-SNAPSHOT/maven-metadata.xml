@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>org.ddelizia.vcrud</groupId>
-  <artifactId>vcrud-core</artifactId>
+  <artifactId>vcrud-model</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20131021.080622</timestamp>
-      <buildNumber>5</buildNumber>
+      <timestamp>20131021.083041</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20131021080622</lastUpdated>
+    <lastUpdated>20131021083041</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20131021.080622-5</value>
-        <updated>20131021080622</updated>
+        <value>1.0-20131021.083041-1</value>
+        <updated>20131021083041</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20131021.080622-5</value>
-        <updated>20131021080622</updated>
+        <value>1.0-20131021.083041-1</value>
+        <updated>20131021083041</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
