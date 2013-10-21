@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.ddelizia.vcrud</groupId>
+  <artifactId>vcrud</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20131021.080240</timestamp>
+      <buildNumber>4</buildNumber>
+    </snapshot>
+    <lastUpdated>20131021080240</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20131021.080240-4</value>
+        <updated>20131021080240</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
