@@ -1,7 +1,7 @@
 repository
 ==========
 
-To include artifacts from this repository add the following repository to your pom.xml in your project.
+To include artifacts from this repository add the followng repository to your pom.xml in your project.
 
 ```xml
 <repositories>
