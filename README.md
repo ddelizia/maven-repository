@@ -1,5 +1,5 @@
 repository
 ==========
-`
+`xml
 <xml></xml>
 `
